@@ -8,8 +8,7 @@ Will the .wav file's spectogram be larger in size? The wave is split into severa
 For several .wav files were built their spectograms and saved into .png.
 The sizes of the files are then compared.
 
-| filename | .wav size | .png size | wav / png %
-                                       (more is better) |
+| filename | .wav size | .png size | wav / png % (more is better) |
 |  :----:  |   :----:  |   :----:  |        :----:      |
 | cat_y    | 49060     | 91880     | 53.4               |
 | eleph    | 2646044   | 2678776   | 98.8               |
